@@ -13,6 +13,8 @@ The purpose of these courses was to create the **Alura Barbershop** website foll
 
 I decided to change all the content, *classes* and *IDs* to **English** (originally **Portuguese**), and I took the liberty of being original with some class names.
 
+And I also decided to separate the **CSS content** by listing it by pages.
+
 ## Preview
 
 You can see a live version right [here](https://notmundt.github.io/alura-barbershop/)
