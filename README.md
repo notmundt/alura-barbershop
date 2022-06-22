@@ -1,4 +1,4 @@
-## What is it?
+## About
 
 This repository is the result of four modules of the *HTML/CSS* course in **Alura** platform, these being:
 
@@ -9,7 +9,7 @@ This repository is the result of four modules of the *HTML/CSS* course in **Alur
 
 The purpose of these courses was to create the **Alura Barbershop** website following the teachings from instructor **Pedro Marins**.
 
-## Differences
+## Changes
 
 I decided to change all the content, *classes* and *IDs* to **English** (originally **Portuguese**), and I took the liberty of being original with some class names.
 
